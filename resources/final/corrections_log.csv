@@ -1,0 +1,13 @@
+type,old,new,works,corpora,reason,file
+ID_FIX,116512288,118557211,23,"03_de-corp, 03_de-corp-non-fiction",Jean Paul: 116512288 is the art historian Jean Paul Richter (1847-1937),
+ID_FIX,127610524X,118709933,1,04_d-prose,Henry von Heiseler: two GND records with identical life dates (1875-1928); the canon list uses 118709933,
+ID_FIX,1050700996,118521101,11,"03_de-corp, 08_roko",H. Clauren (Carl Heun): second GND record for the same person; the canon list and the rest of the corpora use 118521101,
+ROW_FIX gndIdentifier,1111522545,118552465,1,07_bildungsromane,E.T.A. Hoffmann instead of Ernst Lothar Hoffmann (1898-1985),hoffmann_murr_t1.txt
+ROW_FIX gndIdentifier,1111522545,118552465,1,07_bildungsromane,E.T.A. Hoffmann instead of Ernst Lothar Hoffmann (1898-1985),hoffmann_murr_t2.txt
+ROW_FIX gndIdentifier,116583959,118677055,1,03_de-corp,Charles de Coster instead of Wilhelm Fischer (error in MANUAL_IDS),"Coster,_Charles_de_-_Tyll_Ulenspiegel_und_Lamm_Goedzak:_Legende_von_ihren_heroischen,_lustigen_und_r-68862.txt"
+ROW_FIX gndIdentifier,116869852,120671883,1,03_de-corp,Carl Grosse (1768-1847); 116869852 is Karl Grosse (1804-1885),Karl_Grosse_-_Der_Genius.txt
+ROW_FIX gndIdentifier,118718983,120671883,1,08_roko,RoKo metadata: ID of Julius Grosse instead of Carl Grosse,Grosse_Genius
+ROW_FIX author_first,Carl,Julius,1,08_roko,"RoKo metadata: Ravensbeck (1910) is by Julius Grosse, not Carl Grosse (the ID was correct)",Grosse_Ravensbeck
+ROW_FIX author_last,,Meysenbug,1,05_ELTeC-deu,name missing in the ELTeC metadata,DEU086
+ROW_FIX author_first,,Malwida von,1,05_ELTeC-deu,name missing in the ELTeC metadata,DEU086
+ROW_FIX year,1017.0,,1,01_german-fiction,Müller-Guttenbrunn: year 1017 is a typo in the file name of the source,Adam_Müller-Guttenbrunn_-_Meister_Jakob_und_seine_Kinder_(1017).txt

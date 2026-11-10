@@ -1,0 +1,34 @@
+ln,fi,gndIdentifier,GND_name,names,works,canon_rank,corpora
+becker,k,108972933,"Becker, Kurt E.",Kurt E.,1,,07_bildungsromane
+becker,k,119090716,"Becker, Karl Friedrich", Karl Friedrich,3,,03_de-corp
+bley,f,116201878,"Bley, Fritz", Fritz,3,,"03_de-corp, 03_de-corp-non-fiction"
+bley,f,118511653,"Blei, Franz", Franz,2,542,03_de-corp-non-fiction
+goethe,j,118540238,"Goethe, Johann Wolfgang von", Johann Wolfgang von | Johann Wolfgang | Johann Wolfgang von,75,1,"01_german-fiction, 03_de-corp, 03_de-corp-non-fiction, 06_romane-der-romantik, 07_bildungsromane, 08_roko, 10_19C-prose, 11_dta-belletristik"
+goethe,j,118717928,"Goethe, Wolfgang Maximilian von",Johhann Wolfgang,9,,10_19C-prose
+grimm,h,118542249,"Grimm, Hans",Hans,1,370,07_bildungsromane
+grimm,h,124670245,"Grimm, Hermann",Hermann,1,,10_19C-prose
+hahn,j,1018778209,"Hahn, Julius", Julius,1,,03_de-corp-non-fiction
+hahn,j,11638669X,"Hahn, Johann Friedrich",Johann,2,1433,"01_german-fiction, 04_d-prose"
+hart,h,117122440,"Hart, Hans", Hans | Hans,8,,"01_german-fiction, 03_de-corp, 04_d-prose, 08_roko"
+hart,h,118863371,"Hart, Heinrich", Heinrich | Heinrich,3,335,"01_german-fiction, 03_de-corp, 04_d-prose"
+henschke,a,1182379923,"Henschke, Alfred",Alfred Georg Hermann,1,,10_19C-prose
+henschke,a,118562681,Klabund,Alfred,4,801,09_ecocor
+holitscher,a,1031305998,"Holitscher, Arnold", Arnold,1,,03_de-corp-non-fiction
+holitscher,a,118973096,"Holitscher, Arthur", Arthur | Arthur,15,801,"01_german-fiction, 03_de-corp, 03_de-corp-non-fiction, 04_d-prose"
+ludwig,e,1151969826,"Ludwig, Emilie",Emilie,1,,08_roko
+ludwig,e,118780778,"Ludwig, Emil", Emil,2,801,"03_de-corp, 03_de-corp-non-fiction"
+meier,e,118580043,"Meier, Emerenz", Emerenz | Emerenz,11,801,"01_german-fiction, 03_de-corp, 04_d-prose"
+meier,e,1415405654,"Meier, Emma",Emma,19,,10_19C-prose
+otto,l,1069206210,"Otto, Luise",L.,3,,10_19C-prose
+otto,l,118590901,"Otto-Peters, Louise",Louise,2,316,"05_ELTeC-deu, 10_19C-prose"
+richter,j,1049655702,"Richter, Johann Heinrich",Johann Paul Friedrich,1,,10_19C-prose
+richter,j,118557211,Jean Paul, Jean Paul,23,22,"03_de-corp, 03_de-corp-non-fiction"
+richter,j,118788760,"Richter, Joseph", Joseph,3,1433,03_de-corp-non-fiction
+roland,e,116969431,"Lewald, Emmi",Emil,3,,10_19C-prose
+roland,e,12684951X,"Roland, Egon", Egon,1,,03_de-corp
+rosenberger,e,101506031,"Rosenberger, Eugenie", Eugenie | Eugenie,3,,"03_de-corp, 03_de-corp-non-fiction, 08_roko"
+rosenberger,e,1146600232,"Rosenberger, Erwin", Erwin,1,,03_de-corp-non-fiction
+schopenhauer,a,118610465,"Schopenhauer, Arthur", Arthur,8,,03_de-corp-non-fiction
+schopenhauer,a,11880510X,"Schopenhauer, Adele", Adele | Adele,7,801,"03_de-corp, 03_de-corp-non-fiction, 05_ELTeC-deu, 08_roko, 10_19C-prose"
+spindler,c,100410618,"Spindler, Christian Gotthold",Christian Gotthold,1,,11_dta-belletristik
+spindler,c,119164043,"Spindler, Karl", Carl | Carl,5,1433,"01_german-fiction, 03_de-corp"
