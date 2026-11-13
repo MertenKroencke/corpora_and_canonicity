@@ -1,4 +1,6 @@
 type,old,new,works,corpora,reason,file
+ID_FIX,1014122880,118731092,34,"01_german-fiction, 03_de-corp, 04_d-prose, 05_ELTeC-deu, 10_19C-prose","Marlitt: 1014122880 is a name record (not a person record), it comes from ELTeC and was copied to other corpora in step 2b",
+ID_FIX,1014784034,118582054,1,05_ELTeC-deu,Meysenbug: 1014784034 is a name record (ELTeC DEU086),
 ID_FIX,116512288,118557211,23,"03_de-corp, 03_de-corp-non-fiction",Jean Paul: 116512288 is the art historian Jean Paul Richter (1847-1937),
 ID_FIX,127610524X,118709933,1,04_d-prose,Henry von Heiseler: two GND records with identical life dates (1875-1928); the canon list uses 118709933,
 ID_FIX,1050700996,118521101,11,"03_de-corp, 08_roko",H. Clauren (Carl Heun): second GND record for the same person; the canon list and the rest of the corpora use 118521101,

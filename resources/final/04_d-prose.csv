@@ -1239,13 +1239,13 @@ Mackay,John,Henry Der Schwimmer,,Mackay_John_Henry_Der_Schwimmer.txt,118575856,"
 Mackay,John,Henry Der Unschuldige,,Mackay_John_Henry_Der_Unschuldige.txt,118575856,"Mackay, John Henry",exact,2.052251608023491,1433,118575856,
 Mackay,John,Henry Die Anarchisten,,Mackay_John_Henry_Die_Anarchisten.txt,118575856,"Mackay, John Henry",exact,2.052251608023491,1433,118575856,
 Mackay,John,Henry Die Menschen der Ehe,,Mackay_John_Henry_Die_Menschen_der_Ehe.txt,118575856,"Mackay, John Henry",exact,2.052251608023491,1433,118575856,
-Marlitt,Eugenie,Amtmanns Magd,,Marlitt_Eugenie_Amtmanns_Magd.txt,118731092,"Marlitt, E.",filled_from_other_corpus,4.391985926691538,397,118731092,
-Marlitt,Eugenie,Das Eulenhaus,,Marlitt_Eugenie_Das_Eulenhaus.txt,118731092,"Marlitt, E.",filled_from_other_corpus,4.391985926691538,397,118731092,
-Marlitt,Eugenie,Das Heideprinzesschen,,Marlitt_Eugenie_Das_Heideprinzesschen.txt,118731092,"Marlitt, E.",filled_from_other_corpus,4.391985926691538,397,118731092,
-Marlitt,Eugenie,Die Frau mit den Karfunkelsteinen,,Marlitt_Eugenie_Die_Frau_mit_den_Karfunkelsteinen.txt,118731092,"Marlitt, E.",filled_from_other_corpus,4.391985926691538,397,118731092,
-Marlitt,Eugenie,Die zweite Frau,,Marlitt_Eugenie_Die_zweite_Frau.txt,118731092,"Marlitt, E.",filled_from_other_corpus,4.391985926691538,397,118731092,
-Marlitt,Eugenie,Im Schillingshof,,Marlitt_Eugenie_Im_Schillingshof.txt,118731092,"Marlitt, E.",filled_from_other_corpus,4.391985926691538,397,118731092,
-Marlitt,Eugenie,Schulmeisters Marie,,Marlitt_Eugenie_Schulmeisters_Marie.txt,118731092,"Marlitt, E.",filled_from_other_corpus,4.391985926691538,397,118731092,
+Marlitt,Eugenie,Amtmanns Magd,,Marlitt_Eugenie_Amtmanns_Magd.txt,118731092,"Marlitt, E.",corrected,4.391985926691538,397,1014122880,"Marlitt: 1014122880 is a name record (not a person record), it comes from ELTeC and was copied to other corpora in step 2b"
+Marlitt,Eugenie,Das Eulenhaus,,Marlitt_Eugenie_Das_Eulenhaus.txt,118731092,"Marlitt, E.",corrected,4.391985926691538,397,1014122880,"Marlitt: 1014122880 is a name record (not a person record), it comes from ELTeC and was copied to other corpora in step 2b"
+Marlitt,Eugenie,Das Heideprinzesschen,,Marlitt_Eugenie_Das_Heideprinzesschen.txt,118731092,"Marlitt, E.",corrected,4.391985926691538,397,1014122880,"Marlitt: 1014122880 is a name record (not a person record), it comes from ELTeC and was copied to other corpora in step 2b"
+Marlitt,Eugenie,Die Frau mit den Karfunkelsteinen,,Marlitt_Eugenie_Die_Frau_mit_den_Karfunkelsteinen.txt,118731092,"Marlitt, E.",corrected,4.391985926691538,397,1014122880,"Marlitt: 1014122880 is a name record (not a person record), it comes from ELTeC and was copied to other corpora in step 2b"
+Marlitt,Eugenie,Die zweite Frau,,Marlitt_Eugenie_Die_zweite_Frau.txt,118731092,"Marlitt, E.",corrected,4.391985926691538,397,1014122880,"Marlitt: 1014122880 is a name record (not a person record), it comes from ELTeC and was copied to other corpora in step 2b"
+Marlitt,Eugenie,Im Schillingshof,,Marlitt_Eugenie_Im_Schillingshof.txt,118731092,"Marlitt, E.",corrected,4.391985926691538,397,1014122880,"Marlitt: 1014122880 is a name record (not a person record), it comes from ELTeC and was copied to other corpora in step 2b"
+Marlitt,Eugenie,Schulmeisters Marie,,Marlitt_Eugenie_Schulmeisters_Marie.txt,118731092,"Marlitt, E.",corrected,4.391985926691538,397,1014122880,"Marlitt: 1014122880 is a name record (not a person record), it comes from ELTeC and was copied to other corpora in step 2b"
 Mauthner,Fritz,Aus dem Maerchenbuch der Wahrheit Die heilige Jadwiga,,Mauthner_Fritz_Aus_dem_Maerchenbuch_der_Wahrheit_Die_heilige_Jadwiga.txt,118579304,"Mauthner, Fritz",exact,8.366902628307335,261,118579304,
 Mauthner,Fritz,Aus dem Maerchenbuch der Wahrheit Heinz Dichter,,Mauthner_Fritz_Aus_dem_Maerchenbuch_der_Wahrheit_Heinz_Dichter.txt,118579304,"Mauthner, Fritz",exact,8.366902628307335,261,118579304,
 Mauthner,Fritz,Aus dem Maerchenbuch der Wahrheit Luegenohr,,Mauthner_Fritz_Aus_dem_Maerchenbuch_der_Wahrheit_Luegenohr.txt,118579304,"Mauthner, Fritz",exact,8.366902628307335,261,118579304,

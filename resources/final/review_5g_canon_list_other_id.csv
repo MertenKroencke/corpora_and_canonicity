@@ -1,0 +1,55 @@
+author_first,author_last,gndIdentifier,GND_name,canon_GND,canon_name,canon_rank,same_name,works,corpora
+ Georg,Schwarz,173675700,"Schwarz, Georg",117366714,"Schwarz, Georg",2670,True,1,03_de-corp-non-fiction
+Heinrich,Zschokke,127874208,"Tschokke, Heinrich",118637266,"Zschokke, Heinrich",427,True,1,13_deutscher-novellenschatz
+Heinrich,Seidel,118796089,"Seidel, Heinrich",118760602,"Seidel, Heinrich Wolfgang",3817,False,68,"01_german-fiction, 04_d-prose, 08_roko, 09_ecocor"
+Alfred,Schirokauer,117276464,"Schirokauer, Alfred",118795066,"Schirokauer, Arno",1433,False,20,"01_german-fiction, 04_d-prose, 08_roko"
+Emma,Meier,1415405654,"Meier, Emma",118580043,"Meier, Emerenz",801,False,19,10_19C-prose
+ Heinrich,Seidel,118796089,"Seidel, Heinrich",118760602,"Seidel, Heinrich Wolfgang",3817,False,14,03_de-corp
+ Alfred,Schirokauer,117276464,"Schirokauer, Alfred",118795066,"Schirokauer, Arno",1433,False,11,03_de-corp
+ Arthur,Schopenhauer,118610465,"Schopenhauer, Arthur",11880510X,"Schopenhauer, Adele",801,False,8,03_de-corp-non-fiction
+Ferdinand,Emmerich,127581413,"Emmerich, Ferdinand",118812882,"Emmerich, Friedrich Joseph",4234,False,7,01_german-fiction
+Franz Wilhelm,Ziegler,116987286,"Ziegler, Franz Wilhelm",116987367,"Ziegler, Friedrich W.",3095,False,6,"10_19C-prose, 13_deutscher-novellenschatz"
+Friedrich,Schulz,100316875,"Schulz, Friedrich",123749212,"Schulz, Frank",801,False,6,11_dta-belletristik
+Hans,Hart,117122440,"Hart, Hans",118863371,"Hart, Heinrich",335,False,6,"01_german-fiction, 04_d-prose, 08_roko"
+ Ferdinand,Emmerich,127581413,"Emmerich, Ferdinand",118812882,"Emmerich, Friedrich Joseph",4234,False,5,"03_de-corp, 03_de-corp-non-fiction"
+Adelheid,Weber,117156574,"Weber, Adelheid",117156817,"Weber, Annemarie",2737,False,5,"10_19C-prose, 14_neuer-deutscher-novellenschatz"
+Adelheid,Weber,117156574,"Weber, Adelheid",124021913,"Weber, Anne",594,False,5,"10_19C-prose, 14_neuer-deutscher-novellenschatz"
+Wolf von,Baudissin,117768774,"Baudissin, Wolf von",118507206,"Baudissin, Wolf Heinrich von",3414,False,4,"04_d-prose, 08_roko"
+ Ernst,Klein,141494964,"Klein, Ernst",137467990,"Klein, Eduard",3817,False,3,03_de-corp
+ Johann Georg Friedrich,Jacobi,102499764,"Jacobi, Johann Georg Friedrich",118775782,"Jacobi, Johann Georg",801,False,3,03_de-corp-non-fiction
+ Wolf Graf von,Baudissin,117768774,"Baudissin, Wolf von",118507206,"Baudissin, Wolf Heinrich von",3414,False,3,03_de-corp
+Wolf Graf von,Baudissin,117768774,"Baudissin, Wolf von",118507206,"Baudissin, Wolf Heinrich von",3414,False,3,01_german-fiction
+ Angela,Langer,138261466,"Langer, Angela",116708263,"Langer, Anton",3414,False,2,03_de-corp
+ Eberhard,König,116288868,"König, Eberhard",11629177X,"König, Ewald August",4234,False,2,03_de-corp
+ Hans,Hart,117122440,"Hart, Hans",118863371,"Hart, Heinrich",335,False,2,03_de-corp
+ Jakob,Lorber,118574280,"Lorber, Jakob",124718523,"Lorber, Johann Christoph",3817,False,2,03_de-corp-non-fiction
+August,Wolf,1049432541,"Wolf, August",120596954,"Wolf, Arnoldine Charlotte Henriette",3817,False,2,"10_19C-prose, 13_deutscher-novellenschatz"
+Heinrich Vollrat,Schumacher,11728503X,"Schumacher, Heinrich Vollrat",11894472X,"Schumacher, Hans",3176,False,2,"01_german-fiction, 08_roko"
+ Arnold,Holitscher,1031305998,"Holitscher, Arnold",118973096,"Holitscher, Arthur",801,False,1,03_de-corp-non-fiction
+ Bruno Emil,König,121675823,"König, Bruno Emil",119440512,"König, Barbara",3095,False,1,03_de-corp-non-fiction
+ Friedrich,Schulz,100316875,"Schulz, Friedrich",123749212,"Schulz, Frank",801,False,1,03_de-corp
+ Friedrich Robert,Horn,124267300,"Nord, Friedrich R.",116991739,"Horn, Franz",2849,False,1,03_de-corp
+ Gustav,Schneider,1235826104,"Schneider, Gustav",116824921,"Schneider, Georg",1433,False,1,03_de-corp-non-fiction
+ Hermann,Masius,116834803,"Masius, Hermann",100206611,"Masius, Hector Gottfried",1433,False,1,03_de-corp-non-fiction
+ Hermann,Oeser,117106682,"Oeser, Hermann",120455137,"Oeser, Hans-Christian",2940,False,1,03_de-corp
+ Julius,Hahn,1018778209,"Hahn, Julius",11638669X,"Hahn, Johann Friedrich",1433,False,1,03_de-corp-non-fiction
+ Karl,Alberti,1083048902,"Alberti, Karl",116009926,"Alberti, Konrad",1433,False,1,03_de-corp
+ Oskar,Wiener,117362743,"Wiener, Oskar",118807234,"Wiener, Oswald",517,False,1,03_de-corp-non-fiction
+ Terese,Robinson,1014069564,"Robinson, Terese",1323449647,"Robinson, Therese Albertine Luise",3817,False,1,03_de-corp
+ Wolf von,Baudissin,117768774,"Baudissin, Wolf von",118507206,"Baudissin, Wolf Heinrich von",3414,False,1,03_de-corp
+Angela,Langer,138261466,"Langer, Angela",116708263,"Langer, Anton",3414,False,1,08_roko
+Bernhard,Abeken,116001089,"Abeken, Bernhard",116001097,"Abeken, Bernhard Rudolf",3414,False,1,13_deutscher-novellenschatz
+Emilie,Ludwig,1151969826,"Ludwig, Emilie",118780778,"Ludwig, Emil",801,False,1,08_roko
+Friedrich,Förster,100278043,"Förster, Friedrich Christoph",118692038,"Foerster, Friedrich Wilhelm",4234,False,1,10_19C-prose
+H. v.,Osten,1045211427,"Osten, Hans von",120302276,"Osten, Hedwig von der",4234,False,1,10_19C-prose
+Heinrich,Schumacher,11728503X,"Schumacher, Heinrich Vollrat",11894472X,"Schumacher, Hans",3176,False,1,04_d-prose
+Hermann,Grimm,124670245,"Grimm, Hermann",1049311825,"Grimm, Hans Herbert",3176,False,1,10_19C-prose
+Hermann,Grimm,124670245,"Grimm, Hermann",118542249,"Grimm, Hans",370,False,1,10_19C-prose
+Hermann,Grimm,124670245,"Grimm, Hermann",118697773,"Grimm, Herman",801,False,1,10_19C-prose
+Jean-Jacques,Rousseau,118603426,"Rousseau, Jean-Jacques",100261779,"Rousseau, Johann Baptist",1433,False,1,07_bildungsromane
+Joh.,Ernst,1370643551,"Ernst, Joh. Christian",124192815,"Ernst, Jacob Daniel",4234,False,1,10_19C-prose
+Johann Georg,Schoch,118064665,"Schoch, Johann Georg",123263034,"Schoch, Julia",801,False,1,11_dta-belletristik
+Johann Paul Friedrich,Richter,1049655702,"Richter, Johann Heinrich",118788760,"Richter, Joseph",1433,False,1,10_19C-prose
+Johann Paul Friedrich,Richter,1049655702,"Richter, Johann Heinrich",122400259,"Richter, Jutta",2699,False,1,10_19C-prose
+Manfred,Schneider,116836776,"Schneider, Manfred",122676963,"Schneider, Michael",1433,False,1,01_german-fiction
+Manfred,Schneider,116836776,"Schneider, Manfred",123433398,"Schneider, Michael",801,False,1,01_german-fiction
