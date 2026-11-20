@@ -1,6 +1,5 @@
 author_first,author_last,gndIdentifier,GND_name,canon_GND,canon_name,canon_rank,same_name,works,corpora
  Georg,Schwarz,173675700,"Schwarz, Georg",117366714,"Schwarz, Georg",2670,True,1,03_de-corp-non-fiction
-Heinrich,Zschokke,127874208,"Tschokke, Heinrich",118637266,"Zschokke, Heinrich",427,True,1,13_deutscher-novellenschatz
 Heinrich,Seidel,118796089,"Seidel, Heinrich",118760602,"Seidel, Heinrich Wolfgang",3817,False,68,"01_german-fiction, 04_d-prose, 08_roko, 09_ecocor"
 Alfred,Schirokauer,117276464,"Schirokauer, Alfred",118795066,"Schirokauer, Arno",1433,False,20,"01_german-fiction, 04_d-prose, 08_roko"
 Emma,Meier,1415405654,"Meier, Emma",118580043,"Meier, Emerenz",801,False,19,10_19C-prose
